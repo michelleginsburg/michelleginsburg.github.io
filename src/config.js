@@ -1,38 +1,38 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Michelle Ginsburg | Cloud Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Michelle Ginsburg is a cloud engineer based in London, UK specializing in building (and occasionally designing) exceptional applications and utilising the latest cloud-native technologies.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Michelle Ginsburg, Michelle, Ginsburg, michelleanngins, software engineer, front-end engineer, web developer, javascript, cloud engineer',
+  siteUrl: '',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  name: 'Michelle Ginsburg',
+  location: 'London, UK',
+  email: 'michelleanngins@gmail.com',
+  github: 'https://github.com/michelleginsburg',
+  twitterHandle: '@brynist',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/michelleginsburg',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/michelleaginsburg',
     },
-    {
+    /*{
       name: 'Codepen',
       url: 'https://codepen.io/bchiang7',
-    },
+    },*/
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/aroundtheglobetreks',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/brynist',
     },
   ],
 

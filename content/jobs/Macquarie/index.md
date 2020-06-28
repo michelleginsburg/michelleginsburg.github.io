@@ -1,10 +1,10 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2019-09-14'
+title: 'Cloud Engineer'
+company: 'Macquarie Group'
+location: 'London, UK'
+range: 'August 2019 - Present'
+url: 'https://www.macquarie.com/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects
