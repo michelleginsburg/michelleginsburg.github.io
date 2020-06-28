@@ -2,14 +2,15 @@
   "name": "v4",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "MichelleGinsburg <michelleanngins@gmail.com>",
+  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/bchiang7/v4"
   },
   "keywords": [
     "gatsby"
   ],
+  "license": "MIT",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
