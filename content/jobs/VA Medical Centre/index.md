@@ -3,7 +3,7 @@ date: '2014-12-21'
 title: 'Clinical Research Assistant/Study Coordinator'
 company: 'Malcom Randall VA'
 location: 'Gainesville, FL'
-range: 'Feb 2014 - June 2016'
+range: 'February 2014 - June 2016'
 url: 'https://www.northflorida.va.gov'
 ---
 

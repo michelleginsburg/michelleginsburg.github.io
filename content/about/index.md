@@ -5,9 +5,13 @@ skills:
   - JavaScript (ES6+)
   - HTML & (S)CSS
   - React
-  - Vue
+  - Golang
   - Node.js
-  - WordPress
+  - Microservices
+  - Docker
+  - AWS
+  - Kubernetes
+  - Splunk
 ---
 
 Hello! I'm Michelle, a cloud engineer based in London, UK.
