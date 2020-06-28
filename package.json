@@ -1,11 +1,11 @@
 {
-  "name": "v1",
-  "description": "Personal Website",
+  "name": "v4",
+  "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Michelle Ginsburg <michelleanngins@gmail.com>",
+  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/bchiang7/v4"
   },
   "keywords": [
     "gatsby"
