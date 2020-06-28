@@ -6,13 +6,13 @@ module.exports = {
     'Michelle Ginsburg, michelle, cloud engineer, front-end engineer, web developer, javascript',
   siteUrl: 'https://michelleginsburg.github.io',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  //googleAnalyticsID: 'UA-45666519-2',
+  //googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Michelle Ginsburg',
   location: 'London, UK',
   email: 'michelleanngins@gmail.com',
   github: 'https://github.com/michelleginsburg',
-  twitterHandle: '@bchiang7',
+  twitterHandle: '@Byrnist',
   socialMedia: [
     {
       name: 'GitHub',
@@ -22,10 +22,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/michelleaginsburg',
     },
-    /*{
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },*/
+    {
+      name: 'Stack Overflow',
+      url: 'https://stackoverflow.com/story/michelleg',
+    },
     {
       name: 'Instagram',
       url: 'https://www.instagram.com/aroundtheglobetreks',
