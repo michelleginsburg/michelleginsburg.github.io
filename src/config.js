@@ -12,7 +12,7 @@ module.exports = {
   location: 'London, UK',
   email: 'michelleanngins@gmail.com',
   github: 'https://github.com/michelleginsburg',
-  twitterHandle: '@Byrnist',
+  twitterHandle: '@michelleginsbu',
   socialMedia: [
     {
       name: 'GitHub',
@@ -32,7 +32,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/Byrnist',
+      url: 'https://twitter.com/michelleginsbu',
     },
   ],
 
