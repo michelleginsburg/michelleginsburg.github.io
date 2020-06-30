@@ -8,7 +8,7 @@
   My personal website built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com" target="_blank">Github Pages</a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/master/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/michelleginsburg.github.io/blob/master/src/images/demo.png)
 
 ## 🛠 Installation & Set Up
 
