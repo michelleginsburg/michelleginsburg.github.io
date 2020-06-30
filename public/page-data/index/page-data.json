@@ -100,25 +100,25 @@
           {
             "node": {
               "frontmatter": {
-                "title": "OctoProfile",
+                "title": "MyReads: Reading Tracker",
                 "cover": {
                   "childImageSharp": {
                     "fluid": {
-                      "tracedSVG": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='250'%20viewBox='0%200%20400%20250'%20preserveAspectRatio='none'%3e%3cpath%20d='M0%2081v80h50v-10l1-10h94v20h8v-10l1-10h93v10l1%2010h7v-10l1-10h94v10l1%2010h50V0H0v81m192-65c-8%204-11%2014-7%2022%202%204%201%204%207%200%205-4%205-4%205%203-1%207%200%208%205%206%203%200%203%200%202-7l1-7%201%202%203%204c5%201%205%201%206-2%207-14-10-29-23-21m95%20171c0%206%200%206%203%206%206%202%2010%209%208%2015l-1%203%205%203%205%203%201-2%202-9c1-11-6-20-17-24-6-2-6-2-6%205m-222%202c-3%203-6%208-6%2010s21%207%2022%206l-13-18c0-1-2%200-3%202m13%2019c-12%2014-13%2016-4%2018%207%203%2015%202%2020-2l2-2-7-8-7-9-4%203'%20fill='%2364ffda'%20fill-rule='evenodd'/%3e%3c/svg%3e",
-                      "aspectRatio": 1.6055045871559632,
-                      "src": "/static/193dbee3a936d593a166559259d32c67/60290/octoprofile.png",
-                      "srcSet": "/static/193dbee3a936d593a166559259d32c67/847ef/octoprofile.png 175w,\n/static/193dbee3a936d593a166559259d32c67/91cba/octoprofile.png 350w,\n/static/193dbee3a936d593a166559259d32c67/60290/octoprofile.png 700w,\n/static/193dbee3a936d593a166559259d32c67/f5f50/octoprofile.png 1050w,\n/static/193dbee3a936d593a166559259d32c67/38674/octoprofile.png 1400w,\n/static/193dbee3a936d593a166559259d32c67/1caa4/octoprofile.png 3200w",
-                      "srcWebp": "/static/193dbee3a936d593a166559259d32c67/89afa/octoprofile.webp",
-                      "srcSetWebp": "/static/193dbee3a936d593a166559259d32c67/9fca7/octoprofile.webp 175w,\n/static/193dbee3a936d593a166559259d32c67/37a4e/octoprofile.webp 350w,\n/static/193dbee3a936d593a166559259d32c67/89afa/octoprofile.webp 700w,\n/static/193dbee3a936d593a166559259d32c67/78e7a/octoprofile.webp 1050w,\n/static/193dbee3a936d593a166559259d32c67/03d34/octoprofile.webp 1400w,\n/static/193dbee3a936d593a166559259d32c67/210a9/octoprofile.webp 3200w",
+                      "tracedSVG": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='416'%20viewBox='0%200%20400%20416'%20preserveAspectRatio='none'%3e%3cpath%20d='M103%203l-4%203c1%201-1%203-2%205l-3%203v117H62l-32%201-4%202-6%207-2%205v124c0%20138%200%20128%206%20134%203%202%203%202%201%204-5%203%2012%205%2060%205s65-2%2060-5c-2-2-2-2%201-5l4-3h97c97-1%20112-1%20110-4l1-1%204-3%204-2%204-4%202-5V12l-3-3-3-2-4-3-2-2-126-1C110%201%20107%201%20103%203m6%2094v34h14c17%200%2022%201%2026%209l3%205v211h205V63H109v34m51%2012v3l30-1h30v-4l-30-1h-30v3m79%2041l1%2044h22c21%200%2022%200%2026%202%206%204%209%204%2013%200%204-3%204-9%201-13l-3-3-4-1-4-1-1-2v-3l5-4%204-4v-19h-9l-9-1h18v-19c0-16%200-19-2-20l-13%201-10%201c4%201%203%209-2%2011-7%203-16-5-11-10%202-2-7-3-18-3h-4v44m-65-16h-14v5h30c29%200%2030%200%2030-2l-1-2c-2-1-28-2-45-1m34%209l-2%201%202%201c2%201%202%201%201%202l-3-1c-2-2-2%209%201%2014%202%204%202%204%200%204h-2c-1%201%200%201%203%201l1%201%203%204c2%203%202%204-3%204s-8-2-8-4c0-4%203-4%203%200%200%202%200%202%201%200%201-4%200-5-5-4h-6v-5l3-1c1-2%201-2-2-1l-7%203-3%201c4%200%200%204-4%204l-3%202-5%203-3%202%201-6-1-10c-2-3-2-3-1-4l2-3%201-1%203-1-1-1h-4c-2-1-3-1-6%201-5%202-4%202-3%203%202%203%203%202%203%200%200-1%200-2%201-1%202%201%201%204-2%204h-3v8c0%206%201%207%203%2010%203%203%203%203%204%202h2v4l5-1c4-3%204-3%205%202l1%204h-8c-10-1-12%200-12%203v2h23c20%200%2023%200%2023%202%201%202%201%202-2%202h-3l3%201%207%203c9%205%2019-5%2012-13l-4-3c-2%200-3-6-2-7l1-4%201-3c3-2%200-21-4-21l-2-1c0-2-2-3-5-2m-59%20127a2367%202367%200%20002%200%202367%202367%200%2000-2%200m39-105v5l-2-1c0-1-1-2-2-1v1l-1%201c-2-1-3%204-3%209l1%205h8c7%200%208%200%209-2%203-5%201-14-3-13-5%203-6%202-5-2%200-4%200-5-2-2M27%20268v104h116V164H27v104m235-88c-2%201-2%207%200%2010%206%205%2014%202%2014-5l-1-5h-13M45%20199c-1%202-2%203-1%204l3%2014c1%205-1%206-4%203-2-2-2-2-2%2015v17h14c11%200%2014%200%2017%202%206%203%2012-3%207-8-2-2-2-4-2-12%200-9%200-9-2-9-2%201-2%201-1-3%202-3%202-10%200-13l-1-4c2-2%200-4-4-4s-5%200-6-2c-3-3-16-3-18%200m57%2011v2l-1%202c-1%202-1%204%201%206%202%203%202%204%201%207-2%203-1%204%202%202l1-2%201-1c2%200%204%205%203%207h-3c-2-2-4-1-2%201%202%203%203%202%207%200%202-3%202-3%201-6-1-4-1-4%201-7s3-12%201-10c-1%202-2%202-5%201h-4c0%202-3%201-3-1l-1-1m97%2071v44h25v-6c0-10%200-10%2019-10h16v-28l-1-28-1%201c0%202-4%207-5%207l-3%203c-2%204-2%205-5%204-2%200-3%201-5%203l-3%203h-2c0%201-1%201-2-1h-3c-3%202-6-1-3-4%202-2%202-7%200-11-2-5-3-9-2-16l1-5h-26v44m-80-35c-3%203-3%204%200%207%206%205%2014-2%208-8-3-3-5-3-8%201m-54%2055v27h6l6-1-1-2v-1l3%202c1%202%205%203%205%201l-2-2-2-1h2l4%202%204%202%205%201c7%204%2012-2%209-7-2-3-2-6-2-26v-23H65v28m186%2012c-3%201-5%205-5%2010%201%206%2011%209%2016%204%208-8-2-20-11-14m49%2014c-5%202-8%2012-4%2017%208%2012%2026%201%2019-12-2-5-9-7-15-5m-175%2031c-4%204-1%2012%205%2012%203%200%207-4%207-7%200-6-9-9-12-5'%20fill='%2364ffda'%20fill-rule='evenodd'/%3e%3c/svg%3e",
+                      "aspectRatio": 0.9615384615384616,
+                      "src": "/static/b15fb2e68e0d2b53a6ef1fb7c614edad/60290/mockup1.png",
+                      "srcSet": "/static/b15fb2e68e0d2b53a6ef1fb7c614edad/847ef/mockup1.png 175w,\n/static/b15fb2e68e0d2b53a6ef1fb7c614edad/91cba/mockup1.png 350w,\n/static/b15fb2e68e0d2b53a6ef1fb7c614edad/60290/mockup1.png 700w,\n/static/b15fb2e68e0d2b53a6ef1fb7c614edad/e9302/mockup1.png 949w",
+                      "srcWebp": "/static/b15fb2e68e0d2b53a6ef1fb7c614edad/89afa/mockup1.webp",
+                      "srcSetWebp": "/static/b15fb2e68e0d2b53a6ef1fb7c614edad/9fca7/mockup1.webp 175w,\n/static/b15fb2e68e0d2b53a6ef1fb7c614edad/37a4e/mockup1.webp 350w,\n/static/b15fb2e68e0d2b53a6ef1fb7c614edad/89afa/mockup1.webp 700w,\n/static/b15fb2e68e0d2b53a6ef1fb7c614edad/dc9ab/mockup1.webp 949w",
                       "sizes": "(max-width: 700px) 100vw, 700px"
                     }
                   }
                 },
-                "tech": ["Next.js", "Chart.js", "GitHub API"],
-                "github": "https://github.com/bchiang7/octoprofile",
-                "external": "https://octoprofile.now.sh"
+                "tech": ["React", "Javascript", "Node.js"],
+                "github": "https://github.com/michelleginsburg/My-Reads-App",
+                "external": null
               },
-              "html": "<p>A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.</p>"
+              "html": "<p>A library cataloging app that allows you to select and categorize books that you have read, are currently reading, or want to read.</p>"
             }
           },
           {
