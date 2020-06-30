@@ -7,6 +7,7 @@ range: 'February 2014 - June 2016'
 url: 'https://www.northflorida.va.gov'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Completed Institutional Review Board submission packages and interpreted clinical research protocols
+- Presented and defended draft submission packets to clinical investigators
+- Assisted Principal Investigators with initial setup and closeout of study files, collection and data entry, and on-going organization and maintenance of all research study records and data in a computerized format
+- Participated in patient care conferences, team conferences, in clinical rounds, training programs and research staff conferences as deemed appropriate by the PI
