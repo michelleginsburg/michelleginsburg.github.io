@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'MyReads: Reading Tracker'
+title: 'MyReads Book Catalog'
 cover: './mockup1.png'
 github: 'https://github.com/michelleginsburg/My-Reads-App'
 tech:

@@ -100,7 +100,7 @@
           {
             "node": {
               "frontmatter": {
-                "title": "MyReads: Reading Tracker",
+                "title": "MyReads Book Catalog",
                 "cover": {
                   "childImageSharp": {
                     "fluid": {
@@ -143,6 +143,30 @@
                 "external": null
               },
               "html": "<p>A mobile and web app that lets you create and answer polls. 'Would You Rather?' is a fun game where you have to choose between two difficult scenarios. You can login, answer questions, see how other poeple have voted, post your own questions, and see the ranking of users on the leaderboard.</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "title": "Quiz and Flashcard Maker",
+                "cover": {
+                  "childImageSharp": {
+                    "fluid": {
+                      "tracedSVG": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='147'%20viewBox='0%200%20400%20147'%20preserveAspectRatio='none'%3e%3cpath%20d='M9%201C5%202%202%204%201%208a1385%201385%200%20002%20134c3%205%204%205%2034%205%2028%200%2030%200%2033-5%202-2%202-6%202-68%200-70%200-70-5-72-3-2-54-3-58-1m76%200c-7%203-7%204-7%2030v109l3%203%203%204h59l3-3c4-4%204-7%204-76-1-64-1-64-5-66-3-2-55-2-60-1m75%201c-6%203-6%201-6%2070l1%2067c0%201%201%204%203%205l3%203h58l3-3c4-4%204-7%204-76-1-68%200-65-8-67-7-2-54-1-58%201m76%200c-5%203-5%202-5%2072s0%2069%205%2072l31%201h30l3-3%203-3V7l-3-3-3-2-29-1-32%201m77%201c-2%200-4%202-4%204-2%204-1%20131%200%20134%203%206%205%206%2035%206%2028%200%2030%200%2033-5%202-2%202-6%202-68%200-69%200-69-4-71s-59-3-62%200M5%2074l1%2066c3%203%2055%203%2059%200l3-2V11H5v63m77%201c0%2062%200%2063%202%2065%203%203%2057%203%2059%200%202-1%202-7%202-65V11H82v64m76-60v4h63v-8h-63v4m77%2061l1%2063%202%202c2%202%204%202%2030%202%2021%200%2027-1%2028-2%202-1%202-7%202-65V12h-63v64m77-1v62l2%203%203%202h26c26%200%2027%200%2029-2l3-2V12h-63v63m-154%207c0%2055%201%2057%202%2059%204%202%2057%202%2059-1%202-1%202-7%202-58V25h-63v57M22%2036v4h28v-8H22v4m308%2012v4h28v-8h-28v4M22%2069l1%204h12c16%200%2016%200%2015-4v-4H22v4m231%2026v4h28v-8h-28v4m-231%206v4h28v-8H22v4m78%206v4h28v-8h-28v4m76%2011v4h28v-8h-28v4'%20fill='%2364ffda'%20fill-rule='evenodd'/%3e%3c/svg%3e",
+                      "aspectRatio": 2.734375,
+                      "src": "/static/c540acf19236dcc2969623ee796f0005/60290/mockup2.png",
+                      "srcSet": "/static/c540acf19236dcc2969623ee796f0005/847ef/mockup2.png 175w,\n/static/c540acf19236dcc2969623ee796f0005/91cba/mockup2.png 350w,\n/static/c540acf19236dcc2969623ee796f0005/60290/mockup2.png 700w,\n/static/c540acf19236dcc2969623ee796f0005/f5f50/mockup2.png 1050w,\n/static/c540acf19236dcc2969623ee796f0005/38674/mockup2.png 1400w,\n/static/c540acf19236dcc2969623ee796f0005/6b67d/mockup2.png 1448w",
+                      "srcWebp": "/static/c540acf19236dcc2969623ee796f0005/89afa/mockup2.webp",
+                      "srcSetWebp": "/static/c540acf19236dcc2969623ee796f0005/9fca7/mockup2.webp 175w,\n/static/c540acf19236dcc2969623ee796f0005/37a4e/mockup2.webp 350w,\n/static/c540acf19236dcc2969623ee796f0005/89afa/mockup2.webp 700w,\n/static/c540acf19236dcc2969623ee796f0005/78e7a/mockup2.webp 1050w,\n/static/c540acf19236dcc2969623ee796f0005/03d34/mockup2.webp 1400w,\n/static/c540acf19236dcc2969623ee796f0005/72848/mockup2.webp 1448w",
+                      "sizes": "(max-width: 700px) 100vw, 700px"
+                    }
+                  }
+                },
+                "tech": ["React", "React Native", "Redux", "Expo"],
+                "github": "https://github.com/michelleginsburg/Flashcards-App",
+                "external": null
+              },
+              "html": "<p>This flashcard application is an easy way to study, practice and master what you’re learning. You can create decks, add cards, and take quizzes. Create your own flashcards to help you study and learn!</p>"
             }
           }
         ]
